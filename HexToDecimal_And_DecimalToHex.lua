@@ -1,7 +1,7 @@
 local gg = gg
 local die = os.exit
 
--- credits to https://gameguardian.net/forum/files/file/2676-hex-converter/
+-- credits to https://gameguardian.net/forum/files/file/2676-hex-converter/ 
 
 function Home()
 	debug = -1
